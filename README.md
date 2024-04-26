@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a 19-year-old passionate about breaking and fixing things, especially when it comes to computers. With a view for both hardware and software, I swim on challenges that push the boundaries of technology. Currently, I'm sharpening my skills as a Full Stack Developer and a Jr.DevOps Engineer while exploring the endless possibilities of software engineering.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm a 19-year-old passionate about breaking and fixing things, especially when it comes to computers. With a view for both hardware and software, I swim on challenges that push the boundaries of technology. Currently, I'm sharpening my skills as a Full Stack Developer and a Jr.DevOps Engineer while exploring the endless possibilities of software engineering.
 
 **Languages**<br>
 [![My Languages](https://skillicons.dev/icons?i=ts,js,bash,java,c)](https://skillicons.dev)<br>
