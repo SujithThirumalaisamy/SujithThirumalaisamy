@@ -43,5 +43,5 @@ I'm a 19-year-old passionate about breaking and fixing things, especially when i
 - **Full Home Networking (Up to 1Gbps)**
 - **NAS/Media Server/Mini Kubernetes Test/Learn Env**
 - **Password Manager/Docker Test Env/SQL, NoSQL, Redis Servers using Old Laptop & Raspberry Pis**
-- **DDNS Setup with Remote WOL via TP-Link Router**
+- **Remote WOL via Own IOT/WOL Project**
 - **Local DNS Server Setup with PiHole on Raspberry Pi for Homelab devices.**
