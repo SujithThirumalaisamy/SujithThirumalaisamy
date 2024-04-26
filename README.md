@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, Sujith Here! 👋
 
 <!--
 **SujithThirumalaisamy/SujithThirumalaisamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,40 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a 19-year-old passionate about breaking and fixing things, especially when it comes to computers. With a view for both hardware and software, I swim on challenges that push the boundaries of technology. Currently, I'm sharpening my skills as a Full Stack Developer and a Jr.DevOps Engineer while exploring the endless possibilities of software engineering.
+
+## Languages
+[![My Languages](https://skillicons.dev/icons?i=ts,js,bash,java,c)](https://skillicons.dev)
+
+## Frameworks
+[![My Frameworks](https://skillicons.dev/icons?i=react,next,tailwind,express,discordjs,prisma)](https://skillicons.dev)
+
+## Databases
+[![My Databases](https://skillicons.dev/icons?i=postgres,redis,mongo,mysql)](https://skillicons.dev)
+
+## Tools
+[![My Tools](https://skillicons.dev/icons?i=neovim,git,docker,linux,nginx)](https://skillicons.dev)
+
+## Cloud
+
+[![My Cloud](https://skillicons.dev/icons?i=aws,gcp,cloudflare,netlify,vercel)](https://skillicons.dev)
+
+## 🚀 **Nerdy Showcase Things**
+
+### Centralized Server for College Lab
+🔍 **Problem:** Resource-heavy JDBC learning in college labs using Java and Oracle SQL.  
+💡 **Solution:** Refurbished old Rack server, deployed persistent Oracle and Postgres SQL Databases via Docker on Ubuntu server in my College.
+
+### Storage Infrastructure for College
+🔍 **Problem:** Inefficient storage and sharing of installation files via USB in my College.  
+💡 **Solution:** Built & deployed mirror RAID NAS server using TrueNAS Free, configured firewall for campus-wide NAS access.
+
+### HomeLab Adventures 🏡
+✨ **Motto:** Learn by doing, breaking and through curiosity.
+
+- **Gaming/Development Desk Setup**
+- **Full Home Networking (Up to 1Gbps)**
+- **NAS/Media Server/Mini Kubernetes Test/Learn Env**
+- **Password Manager/Docker Test Env/SQL, NoSQL, Redis Servers using Old Laptop & Raspberry Pis**
+- **DDNS Setup with Remote WOL via TP-Link Router**
+- **Local DNS Server Setup with PiHole on Raspberry Pi for Homelab devices.**
