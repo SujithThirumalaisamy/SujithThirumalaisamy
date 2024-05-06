@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ## 🚀 **Nerdy Showcase Things**
 
 ### Centralized Server for College Lab
-🔍 **Problem:** Resource-heavy JDBC learning in college labs using Java and Oracle SQL.  
+🔍 **Problem:** Resource-heavy JDBC learning in college labs using Java8 and Oracle SQL.  
 💡 **Solution:** Refurbished old Rack server, deployed persistent Oracle and Postgres SQL Databases via Docker on Ubuntu server in my College.
 
 ### Storage Infrastructure for College
