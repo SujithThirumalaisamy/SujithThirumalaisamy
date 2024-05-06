@@ -43,5 +43,6 @@ Here are some ideas to get you started:
 - **Full Home Networking (Up to 1Gbps)**
 - **NAS/Media Server/Mini Kubernetes Test/Learn Env**
 - **Password Manager/Docker Test Env/SQL, NoSQL, Redis Servers using Old Laptop & Raspberry Pis**
+- **Kubernetes Cluster using Rancher in Proxmox using Old Laptop**
 - **Remote WOL via Own IOT/WOL Project**
 - **Local DNS Server Setup with PiHole on Raspberry Pi for Homelab devices.**
