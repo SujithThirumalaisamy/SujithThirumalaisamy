@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm a 19-year-old passionate about breaking and fixing things, especially when it comes to technologies. With a view for both hardware and software, Daily I swim on challenges that push the boundaries of technology. Currently, I'm sharpening my skills as a Full Stack Developer and a Jr.DevOps Engineer while exploring the endless possibilities of software engineering.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm a 19-year-old Tech Enthusiast. Passionate about breaking and fixing things, especially when it comes to technologies. With a view for both hardware and software, Daily I swim on challenges that push the boundaries of technology. Currently, I'm sharpening my skills as a Full Stack Developer and a Jr.DevOps Engineer while exploring the endless possibilities of software engineering.<br>
 [cv.isujith.dev](https://cv.isujith.dev)
 [LinkedIn](https://www.linkedin.com/in/sujith-thiru/)
 [Twitter/X](https://twitter.com/i/flow/login?redirect_after_login=%2FSujithThiru)
